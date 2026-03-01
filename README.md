@@ -60,16 +60,6 @@ const howard = {
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=howardpen9&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6600&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=555555" />
-
-</div>
-
----
-
 ## 🕐 When I Code (UTC+8)
 
 <div align="center">
