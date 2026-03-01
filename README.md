@@ -80,22 +80,12 @@ const howard = {
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/howardpen9/nft-template-in-tact">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=howardpen9&repo=nft-template-in-tact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/howardpen9/jetton-implementation-in-tact">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=howardpen9&repo=jetton-implementation-in-tact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/howardpen9/staking-in-tact">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=howardpen9&repo=staking-in-tact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/howardpen9/copytrading-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=howardpen9&repo=copytrading-agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**nft-template-in-tact**](https://github.com/howardpen9/nft-template-in-tact) | ⭐ 127 | NFT smart contract template based on Tact |
+| [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | ⭐ 114 | Jetton (token) implementation |
+| [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | ⭐ 31 | Staking contract for Jetton tokens |
+| [**copytrading-agent**](https://github.com/howardpen9/copytrading-agent) | ⭐ 6 | Copytrading agent on Hyperliquid |
 
 ---
 
