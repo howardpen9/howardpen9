@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#280](https://github.com/alibaba/OpenSandbox/pull/280) in [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
+1. ❗ Opened issue [#1](https://github.com/craig7351/voiceflow/issues/1) in [craig7351/voiceflow](https://github.com/craig7351/voiceflow)
 <!--END_SECTION:activity-->
 
 ---
