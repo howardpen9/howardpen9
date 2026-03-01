@@ -5,13 +5,16 @@ on:
     - cron: "0 0 * * *" # daily
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fez6/github-profile-summary-cards-example@master
+      - uses: actions/checkout@v4
+      - uses: vn7n24fez6/github-profile-summary-cards@v0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: howardpen9
-          THEME: github_dark
