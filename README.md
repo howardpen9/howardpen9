@@ -51,8 +51,10 @@ const howard = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=howardpen9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardpen9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" />
+<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+
+<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
 </div>
 
