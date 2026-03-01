@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Building+on+TON+Blockchain+%F0%9F%92%8E;Smart+Contract+Engineer+%F0%9F%9A%80;3%2C300%2B+Contributions+%7C+200%2B+Repos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=I+ship+code.+A+lot.+%F0%9F%9A%80;200%2B+Repos+%7C+3%2C300%2B+Commits;Full-stack+Builder+%26+Shipper" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,12 +17,13 @@
 ## `> whoami`
 
 ```typescript
-const howard: Builder = {
+const howard = {
     name: "Howard Peng",
-    role: "Smart Contract Engineer & Builder",
-    focus: ["TON Blockchain", "Tact Language", "Developer Tooling"],
-    contributions: "3,300+ commits since 2018",
-    philosophy: "Ship fast. Build templates. Help others build.",
+    repos: 200,
+    commits: 3_300,
+    since: 2018,
+    motto: "Ship it. Open-source it. Move on.",
+    stack: "Whatever gets the job done",
     location: "Pacific Ocean 🌊",
 };
 ```
@@ -39,8 +40,8 @@ const howard: Builder = {
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -101,7 +102,7 @@ const howard: Builder = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔨 Building on TON Blockchain...
+1. 🔨 Shipping code...
 <!--END_SECTION:activity-->
 
 ---
