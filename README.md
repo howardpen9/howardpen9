@@ -109,16 +109,3 @@ const howard = {
 [![Dune](https://img.shields.io/badge/Dune_Analytics-F0603E?style=for-the-badge&logo=dune&logoColor=white)](https://dune.com/Howard_Peng)
 
 </div>
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/howardpen9/howardpen9/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/howardpen9/howardpen9/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/howardpen9/howardpen9/output/github-snake-dark.svg" />
-</picture>
-
-</div>
