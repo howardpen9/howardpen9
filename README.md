@@ -70,11 +70,11 @@ const howard = {
 
 ---
 
-## 📈 Contribution Graph
+## 🕐 When I Code
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=howardpen9&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6600&area=true&area_color=00ff8830&hide_border=true&custom_title=Howard's%20Contribution%20Graph)](https://github.com/howardpen9)
+<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 </div>
 
