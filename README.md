@@ -94,7 +94,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#275](https://github.com/alibaba/OpenSandbox/pull/275) in [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
+1. 🎉 Merged PR [#280](https://github.com/alibaba/OpenSandbox/pull/280) in [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
 <!--END_SECTION:activity-->
 
 ---
