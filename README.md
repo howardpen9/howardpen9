@@ -70,11 +70,11 @@ const howard = {
 
 ---
 
-## 🕐 When I Code
+## 🕐 When I Code (UTC+8 / Past 365 Days)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/metrics-habits.svg" />
 
 </div>
 
