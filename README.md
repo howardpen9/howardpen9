@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/craig7351/voiceflow/issues/1) in [craig7351/voiceflow](https://github.com/craig7351/voiceflow)
+1. 💪 Opened PR [#41](https://github.com/duanyytop/agents-radar/pull/41) in [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
 <!--END_SECTION:activity-->
 
 ---
