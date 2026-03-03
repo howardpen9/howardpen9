@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/BeehiveInnovations/pal-mcp-server/pull/407#issuecomment-3990012334) in [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
+1. 💪 Opened PR [#1457](https://github.com/0xPlaygrounds/rig/pull/1457) in [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
 <!--END_SECTION:activity-->
 
 ---
