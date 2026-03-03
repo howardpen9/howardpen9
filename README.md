@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/duanyytop/agents-radar/pull/41) in [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
+1. 💪 Opened PR [#407](https://github.com/BeehiveInnovations/pal-mcp-server/pull/407) in [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
 <!--END_SECTION:activity-->
 
 ---
