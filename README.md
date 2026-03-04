@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2689](https://github.com/punkpeye/awesome-mcp-servers/pull/2689) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+1. 🎉 Merged PR [#2](https://github.com/GetSkill-Agent/getskill-skills/pull/2) in [GetSkill-Agent/getskill-skills](https://github.com/GetSkill-Agent/getskill-skills)
 <!--END_SECTION:activity-->
 
 ---
