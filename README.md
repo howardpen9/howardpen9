@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1457](https://github.com/0xPlaygrounds/rig/pull/1457) in [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+1. 💪 Opened PR [#2689](https://github.com/punkpeye/awesome-mcp-servers/pull/2689) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 <!--END_SECTION:activity-->
 
 ---
