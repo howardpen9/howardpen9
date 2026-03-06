@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/clawinstaller/claw-installer/issues/1) in [clawinstaller/claw-installer](https://github.com/clawinstaller/claw-installer)
+1. 🗣 Commented on [#3460](https://github.com/openclaw/openclaw/issues/3460#issuecomment-4010963841) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 ---
