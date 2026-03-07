@@ -85,7 +85,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/GetSkill-Agent/getskill-skills/pull/3) in [GetSkill-Agent/getskill-skills](https://github.com/GetSkill-Agent/getskill-skills)
+1. 🎉 Merged PR [#119](https://github.com/steipete/summarize/pull/119) in [steipete/summarize](https://github.com/steipete/summarize)
 <!--END_SECTION:activity-->
 
 ---
