@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=I+ship+code.+A+lot.+%F0%9F%9A%80;200%2B+Repos+%7C+3%2C300%2B+Commits;Full-stack+Builder+%26+Shipper" alt="Typing SVG" /></a>
-
-<br/>
-
 <!-- Profile Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=howardpen9&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/howardpen9?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
