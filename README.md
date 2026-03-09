@@ -80,7 +80,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/steipete/summarize/pull/119) in [steipete/summarize](https://github.com/steipete/summarize)
+1. ❗ Opened issue [#40562](https://github.com/openclaw/openclaw/issues/40562) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 ---
