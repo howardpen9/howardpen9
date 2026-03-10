@@ -80,7 +80,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#365](https://github.com/googleworkspace/cli/pull/365) in [googleworkspace/cli](https://github.com/googleworkspace/cli)
+1. 🗣 Commented on [#123](https://github.com/duanyytop/agents-radar/pull/123#issuecomment-4030728938) in [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
 <!--END_SECTION:activity-->
 
 ---
