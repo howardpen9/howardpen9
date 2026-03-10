@@ -80,7 +80,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#10](https://github.com/howardpen9/coding-cli-tracker/issues/10) in [howardpen9/coding-cli-tracker](https://github.com/howardpen9/coding-cli-tracker)
+1. 💪 Opened PR [#365](https://github.com/googleworkspace/cli/pull/365) in [googleworkspace/cli](https://github.com/googleworkspace/cli)
 <!--END_SECTION:activity-->
 
 ---
