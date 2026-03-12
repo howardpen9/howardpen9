@@ -80,7 +80,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1383](https://github.com/MoonshotAI/kimi-cli/issues/1383#issuecomment-4039948291) in [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+1. 🎉 Merged PR [#4](https://github.com/GetSkill-Agent/getskill-skills/pull/4) in [GetSkill-Agent/getskill-skills](https://github.com/GetSkill-Agent/getskill-skills)
 <!--END_SECTION:activity-->
 
 ---
