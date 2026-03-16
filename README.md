@@ -80,7 +80,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1438](https://github.com/MoonshotAI/kimi-cli/pull/1438) in [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+1. 💪 Opened PR [#8180](https://github.com/promptfoo/promptfoo/pull/8180) in [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 <!--END_SECTION:activity-->
 
 ---
