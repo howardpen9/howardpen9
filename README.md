@@ -80,7 +80,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8180](https://github.com/promptfoo/promptfoo/pull/8180) in [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+1. 🗣 Commented on [#1238](https://github.com/nearai/ironclaw/pull/1238#issuecomment-4072611412) in [nearai/ironclaw](https://github.com/nearai/ironclaw)
 <!--END_SECTION:activity-->
 
 ---
