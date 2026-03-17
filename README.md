@@ -80,7 +80,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1238](https://github.com/nearai/ironclaw/pull/1238#issuecomment-4072611412) in [nearai/ironclaw](https://github.com/nearai/ironclaw)
+1. ❗ Opened issue [#162](https://github.com/steipete/summarize/issues/162) in [steipete/summarize](https://github.com/steipete/summarize)
 <!--END_SECTION:activity-->
 
 ---
