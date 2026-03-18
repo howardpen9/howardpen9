@@ -77,6 +77,31 @@ const howard = {
 
 ---
 
+## 🌍 Top Contributed Repositories
+
+<details>
+<summary>Show repositories (13)</summary>
+
+| Repository | Stars | Language | Description |
+|:---|:---:|:---:|:---|
+| [**anthropics/skills**](https://github.com/anthropics/skills) | 96.3k | Python | Public repository for Agent Skills |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | 83.4k | — | A collection of MCP servers |
+| [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | 21.3k | Rust | Google Workspace CLI — Drive, Gmail, Calendar, Sheets, and more |
+| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | 20.7k | TypeScript | An open-source AI agent that lives in your terminal |
+| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | 17.3k | TypeScript | Test your prompts, agents, and RAGs. Red teaming / vulnerability scanning |
+| [**slopus/happy**](https://github.com/slopus/happy) | 15.6k | TypeScript | Mobile and Web client for Codex and Claude Code, with realtime voice |
+| [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | 11.3k | Python | Claude Code / GeminiCLI / CodexCLI + multi-provider AI support |
+| [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | 10.3k | Rust | IronClaw — OpenClaw-inspired implementation in Rust focused on privacy |
+| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | 8.4k | Python | General-purpose sandbox platform for AI applications |
+| [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | 7.2k | Python | Kimi Code CLI — your next CLI agent |
+| [**0xPlaygrounds/rig**](https://github.com/0xPlaygrounds/rig) | 6.6k | Rust | Build modular and scalable LLM Applications in Rust |
+| [**steipete/summarize**](https://github.com/steipete/summarize) | 5.1k | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. |
+| [**ton-community/ton-docs**](https://github.com/ton-community/ton-docs) | 371 | MDX | TON Documentation |
+
+</details>
+
+---
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
