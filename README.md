@@ -105,7 +105,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#164](https://github.com/steipete/summarize/pull/164#issuecomment-4079433461) in [steipete/summarize](https://github.com/steipete/summarize)
+1. ❗ Opened issue [#4480](https://github.com/unslothai/unsloth/issues/4480) in [unslothai/unsloth](https://github.com/unslothai/unsloth)
 <!--END_SECTION:activity-->
 
 ---
