@@ -105,7 +105,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24152](https://github.com/BerriAI/litellm/issues/24152#issuecomment-4102395953) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+1. ❗ Opened issue [#23](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast/issues/23) in [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast)
 <!--END_SECTION:activity-->
 
 ---
