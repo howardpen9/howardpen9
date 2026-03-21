@@ -105,7 +105,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37690](https://github.com/vllm-project/vllm/pull/37690) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 🎉 Merged PR [#21091](https://github.com/run-llama/llama_index/pull/21091) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
 <!--END_SECTION:activity-->
 
 ---
