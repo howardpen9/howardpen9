@@ -105,7 +105,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21091](https://github.com/run-llama/llama_index/pull/21091) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
+1. 🗣 Commented on [#24152](https://github.com/BerriAI/litellm/issues/24152#issuecomment-4102395953) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 <!--END_SECTION:activity-->
 
 ---
