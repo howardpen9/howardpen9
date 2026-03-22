@@ -105,7 +105,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast/issues/23) in [NVIDIA-AI-Blueprints/pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast)
+1. ❗ Opened issue [#18](https://github.com/typefully/agent-skills/issues/18) in [typefully/agent-skills](https://github.com/typefully/agent-skills)
 <!--END_SECTION:activity-->
 
 ---
