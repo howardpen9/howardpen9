@@ -66,6 +66,51 @@ const howard = {
 
 ---
 
+## 🖼️ Showcase
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://openmod.ai">
+        <img src="https://opengraph.githubassets.com/1/howard-openclaw/nexus-dashboard" width="100%" alt="OpenMod.ai" />
+      </a>
+      <br/>
+      <a href="https://openmod.ai"><b>OpenMod.ai</b></a> &nbsp;·&nbsp; AI agent workspace
+      <br/><sub>Next.js · Expo · TypeScript &nbsp;|&nbsp; <a href="https://openmod.ai">openmod.ai ↗</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/howardpen9/kimi-code-mcp">
+        <img src="https://opengraph.githubassets.com/1/howardpen9/kimi-code-mcp" width="100%" alt="kimi-code-mcp" />
+      </a>
+      <br/>
+      <a href="https://github.com/howardpen9/kimi-code-mcp"><b>kimi-code-mcp</b></a> &nbsp;·&nbsp; ⭐ 32
+      <br/><sub>MCP server · Claude Code × Kimi K2.5</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/blobverse/game">
+        <img src="https://opengraph.githubassets.com/1/blobverse/game" width="100%" alt="Blobverse" />
+      </a>
+      <br/>
+      <a href="https://github.com/blobverse"><b>Blobverse</b></a> &nbsp;·&nbsp; .io Battle Royale
+      <br/><sub>AI Agents fight to survive · TypeScript</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ai-radar-hq">
+        <img src="https://opengraph.githubassets.com/1/ai-radar-hq/ai-radar-viewer" width="100%" alt="AI Radar" />
+      </a>
+      <br/>
+      <a href="https://github.com/ai-radar-hq"><b>AI Radar</b></a> &nbsp;·&nbsp; Daily AI digest
+      <br/><sub>Auto-curated AI ecosystem news · TypeScript</sub>
+    </td>
+  </tr>
+</table>
+
+> 📸 More screenshots coming — Lumen, Good Vibe, Agent Hub
+
+---
+
 ## 🤖 AI Tools & Infrastructure
 
 | Project | Stars | Description |
@@ -96,7 +141,8 @@ Things I've built or explored — open source, shipped, or still private.
 | 2026 Q1 | **Lumen** | AI writing studio — capture ideas via voice/paste, AI auto-categorizes, publish to social | React 19 · Kimi · Typefully | private beta |
 | 2026 Q1 | **Good Vibe** | macOS app for founders wrapping headless browser QA — BYOK model, YC × Anthropic aesthetic | Tauri · Rust · TypeScript | private |
 | 2025 Q4 | **Agent Hub** | Multi-agent orchestration hub with tier-based routing (T0–T3), Claude CLI subprocess, no API key needed | TypeScript · Express | private |
-| 2025 Q3 | **Nexus Dashboard** | OpenClaw web dashboard — multi-agent sessions, real-time WebSocket, workspace management | React · Express · WS | private |
+| 2025 Q4 | **Blobverse** | .io Battle Royale where AI Agents fight to survive — real-time multiplayer game | TypeScript | [blobverse ↗](https://github.com/blobverse) |
+| 2025 Q3 | **Nexus Dashboard** | OpenClaw web dashboard — multi-agent sessions, real-time WebSocket, workspace management | React · Express · WS | [repo ↗](https://github.com/howard-openclaw/nexus-dashboard) |
 | 2025 Q4 | **AI Radar** | Daily AI ecosystem digest — auto-curated news reader for the AI builder community | TypeScript | [ai-radar-hq ↗](https://github.com/ai-radar-hq) |
 | 2024 | **copytrading-agent** | On-chain copy trading automation on Hyperliquid | — | [repo ↗](https://github.com/howardpen9/copytrading-agent) |
 | 2023–2024 | **TON Smart Contracts** | NFT template, Jetton token, staking — 200+ combined stars | Tact · FunC | [nft ↗](https://github.com/howardpen9/nft-template-in-tact) · [jetton ↗](https://github.com/howardpen9/jetton-implementation-in-tact) |
