@@ -68,64 +68,12 @@ const howard = {
 
 ## 🖼️ Showcase
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://openmod.ai">
-        <img src="https://opengraph.githubassets.com/1/howard-openclaw/nexus-dashboard" width="100%" alt="OpenMod.ai" />
-      </a>
-      <br/>
-      <a href="https://openmod.ai"><b>OpenMod.ai</b></a> &nbsp;·&nbsp; AI agent workspace
-      <br/><sub>Next.js · Expo · TypeScript &nbsp;|&nbsp; <a href="https://openmod.ai">openmod.ai ↗</a></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/howardpen9/kimi-code-mcp">
-        <img src="https://opengraph.githubassets.com/1/howardpen9/kimi-code-mcp" width="100%" alt="kimi-code-mcp" />
-      </a>
-      <br/>
-      <a href="https://github.com/howardpen9/kimi-code-mcp"><b>kimi-code-mcp</b></a> &nbsp;·&nbsp; ⭐ 32
-      <br/><sub>MCP server · Claude Code × Kimi K2.5</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/remem-ai/remem">
-        <img src="https://opengraph.githubassets.com/1/remem-ai/remem" width="100%" alt="Remem" />
-      </a>
-      <br/>
-      <a href="https://github.com/remem-ai"><b>Remem</b></a> &nbsp;·&nbsp; Claude's external brain
-      <br/><sub>macOS · MCP server · Swift + TypeScript</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/whoop-coach/whoop-agent">
-        <img src="https://opengraph.githubassets.com/1/whoop-coach/whoop-agent" width="100%" alt="Whoop Coach" />
-      </a>
-      <br/>
-      <a href="https://github.com/whoop-coach"><b>Whoop Coach</b></a> &nbsp;·&nbsp; AI health coach
-      <br/><sub>WHOOP data · Telegram agent · Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/blobverse/game">
-        <img src="https://opengraph.githubassets.com/1/blobverse/game" width="100%" alt="Blobverse" />
-      </a>
-      <br/>
-      <a href="https://github.com/blobverse"><b>Blobverse</b></a> &nbsp;·&nbsp; .io Battle Royale
-      <br/><sub>AI Agents fight to survive · TypeScript</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ai-radar-hq">
-        <img src="https://opengraph.githubassets.com/1/ai-radar-hq/ai-radar-viewer" width="100%" alt="AI Radar" />
-      </a>
-      <br/>
-      <a href="https://github.com/ai-radar-hq"><b>AI Radar</b></a> &nbsp;·&nbsp; Daily AI digest
-      <br/><sub>Auto-curated AI ecosystem news · TypeScript</sub>
-    </td>
-  </tr>
-</table>
-
-> 📸 Screenshots being added — Lumen, Good Vibe, Agent Hub
+- **[OpenMod.ai](https://openmod.ai)** — AI agent workspace, teammates are AI · Next.js · Expo · TypeScript
+- **[kimi-code-mcp](https://github.com/howardpen9/kimi-code-mcp)** ⭐ 32 — MCP server bridging Claude Code × Kimi K2.5, 90% token cost reduction
+- **[Remem](https://github.com/remem-ai)** — Decode any URL into searchable knowledge, Claude's external brain · macOS · MCP · Swift + TypeScript
+- **[Whoop Coach](https://github.com/whoop-coach)** — AI health coach on Telegram powered by WHOOP biometric data · Python
+- **[Blobverse](https://github.com/blobverse)** — .io Battle Royale where AI Agents fight to survive · TypeScript
+- **[AI Radar](https://github.com/ai-radar-hq)** — Daily AI ecosystem digest, auto-curated news reader · TypeScript
 
 ---
 
