@@ -89,6 +89,24 @@ const howard = {
   </tr>
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/remem-ai/remem">
+        <img src="https://opengraph.githubassets.com/1/remem-ai/remem" width="100%" alt="Remem" />
+      </a>
+      <br/>
+      <a href="https://github.com/remem-ai"><b>Remem</b></a> &nbsp;·&nbsp; Claude's external brain
+      <br/><sub>macOS · MCP server · Swift + TypeScript</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/whoop-coach/whoop-agent">
+        <img src="https://opengraph.githubassets.com/1/whoop-coach/whoop-agent" width="100%" alt="Whoop Coach" />
+      </a>
+      <br/>
+      <a href="https://github.com/whoop-coach"><b>Whoop Coach</b></a> &nbsp;·&nbsp; AI health coach
+      <br/><sub>WHOOP data · Telegram agent · Python</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/blobverse/game">
         <img src="https://opengraph.githubassets.com/1/blobverse/game" width="100%" alt="Blobverse" />
       </a>
@@ -107,7 +125,7 @@ const howard = {
   </tr>
 </table>
 
-> 📸 More screenshots coming — Lumen, Good Vibe, Agent Hub
+> 📸 Screenshots being added — Lumen, Good Vibe, Agent Hub
 
 ---
 
@@ -140,10 +158,12 @@ Things I've built or explored — open source, shipped, or still private.
 | 2026 Q1 | **OpenMod.ai** | Slack-like workspace where teammates are AI agents — web-first, free credits, instant onboarding | Next.js · Expo · TypeScript | [openmod.ai](https://openmod.ai) |
 | 2026 Q1 | **Lumen** | AI writing studio — capture ideas via voice/paste, AI auto-categorizes, publish to social | React 19 · Kimi · Typefully | private beta |
 | 2026 Q1 | **Good Vibe** | macOS app for founders wrapping headless browser QA — BYOK model, YC × Anthropic aesthetic | Tauri · Rust · TypeScript | private |
+| 2026 Q1 | **Blobverse** | .io Battle Royale where AI Agents fight to survive — real-time multiplayer game | TypeScript | [blobverse ↗](https://github.com/blobverse) |
+| 2025 Q4 | **Remem** | macOS app + MCP server — decode any URL into searchable knowledge, Claude's external brain | Swift · TypeScript | [remem-ai ↗](https://github.com/remem-ai) |
 | 2025 Q4 | **Agent Hub** | Multi-agent orchestration hub with tier-based routing (T0–T3), Claude CLI subprocess, no API key needed | TypeScript · Express | private |
-| 2025 Q4 | **Blobverse** | .io Battle Royale where AI Agents fight to survive — real-time multiplayer game | TypeScript | [blobverse ↗](https://github.com/blobverse) |
-| 2025 Q3 | **Nexus Dashboard** | OpenClaw web dashboard — multi-agent sessions, real-time WebSocket, workspace management | React · Express · WS | [repo ↗](https://github.com/howard-openclaw/nexus-dashboard) |
 | 2025 Q4 | **AI Radar** | Daily AI ecosystem digest — auto-curated news reader for the AI builder community | TypeScript | [ai-radar-hq ↗](https://github.com/ai-radar-hq) |
+| 2025 Q3 | **Nexus Dashboard** | OpenClaw web dashboard — multi-agent sessions, real-time WebSocket, workspace management | React · Express · WS | [repo ↗](https://github.com/howard-openclaw/nexus-dashboard) |
+| 2025 Q3 | **Whoop Coach** | AI health coach on Telegram — turns WHOOP biometric data into actionable coaching insights | Python | [whoop-coach ↗](https://github.com/whoop-coach) |
 | 2024 | **copytrading-agent** | On-chain copy trading automation on Hyperliquid | — | [repo ↗](https://github.com/howardpen9/copytrading-agent) |
 | 2023–2024 | **TON Smart Contracts** | NFT template, Jetton token, staking — 200+ combined stars | Tact · FunC | [nft ↗](https://github.com/howardpen9/nft-template-in-tact) · [jetton ↗](https://github.com/howardpen9/jetton-implementation-in-tact) |
 
