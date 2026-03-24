@@ -66,14 +66,40 @@ const howard = {
 
 ---
 
-## 🏆 Featured Projects
+## 🤖 AI Tools & Infrastructure
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | ⭐ 32 | MCP server bridging Claude Code × Kimi K2.5 — 90% token cost reduction |
+
+> More AI projects in the Build Timeline below ↓
+
+---
+
+## ⛓️ Blockchain (TON Ecosystem)
 
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [**nft-template-in-tact**](https://github.com/howardpen9/nft-template-in-tact) | ⭐ 127 | NFT smart contract template based on Tact |
 | [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | ⭐ 114 | Jetton (token) implementation |
 | [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | ⭐ 31 | Staking contract for Jetton tokens |
-| [**copytrading-agent**](https://github.com/howardpen9/copytrading-agent) | ⭐ 6 | Copytrading agent on Hyperliquid |
+
+---
+
+## 🛠️ Build Timeline
+
+Things I've built or explored — open source, shipped, or still private.
+
+| Period | Project | What I built | Stack | Link |
+|--------|---------|-------------|-------|------|
+| 2026 Q1 | **OpenMod.ai** | Slack-like workspace where teammates are AI agents — web-first, free credits, instant onboarding | Next.js · Expo · TypeScript | [openmod.ai](https://openmod.ai) |
+| 2026 Q1 | **Lumen** | AI writing studio — capture ideas via voice/paste, AI auto-categorizes, publish to social | React 19 · Kimi · Typefully | private beta |
+| 2026 Q1 | **Good Vibe** | macOS app for founders wrapping headless browser QA — BYOK model, YC × Anthropic aesthetic | Tauri · Rust · TypeScript | private |
+| 2025 Q4 | **Agent Hub** | Multi-agent orchestration hub with tier-based routing (T0–T3), Claude CLI subprocess, no API key needed | TypeScript · Express | private |
+| 2025 Q3 | **Nexus Dashboard** | OpenClaw web dashboard — multi-agent sessions, real-time WebSocket, workspace management | React · Express · WS | private |
+| 2025 Q4 | **AI Radar** | Daily AI ecosystem digest — auto-curated news reader for the AI builder community | TypeScript | [ai-radar-hq ↗](https://github.com/ai-radar-hq) |
+| 2024 | **copytrading-agent** | On-chain copy trading automation on Hyperliquid | — | [repo ↗](https://github.com/howardpen9/copytrading-agent) |
+| 2023–2024 | **TON Smart Contracts** | NFT template, Jetton token, staking — 200+ combined stars | Tact · FunC | [nft ↗](https://github.com/howardpen9/nft-template-in-tact) · [jetton ↗](https://github.com/howardpen9/jetton-implementation-in-tact) |
 
 ---
 
