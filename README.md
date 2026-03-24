@@ -105,7 +105,7 @@ const howard = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/typefully/agent-skills/issues/18) in [typefully/agent-skills](https://github.com/typefully/agent-skills)
+1. ❗ Opened issue [#421](https://github.com/garrytan/gstack/issues/421) in [garrytan/gstack](https://github.com/garrytan/gstack)
 <!--END_SECTION:activity-->
 
 ---
