@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23065](https://github.com/google-gemini/gemini-cli/pull/23065#issuecomment-4122517632) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. ❗ Opened issue [#489](https://github.com/garrytan/gstack/issues/489) in [garrytan/gstack](https://github.com/garrytan/gstack)
 <!--END_SECTION:activity-->
 
 ---
