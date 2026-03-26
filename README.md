@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1591](https://github.com/MoonshotAI/kimi-cli/pull/1591) in [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+1. 🎉 Merged PR [#8180](https://github.com/promptfoo/promptfoo/pull/8180) in [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 <!--END_SECTION:activity-->
 
 ---
