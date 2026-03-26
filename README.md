@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#489](https://github.com/garrytan/gstack/issues/489) in [garrytan/gstack](https://github.com/garrytan/gstack)
+1. 🎉 Merged PR [#8239](https://github.com/promptfoo/promptfoo/pull/8239) in [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 <!--END_SECTION:activity-->
 
 ---
