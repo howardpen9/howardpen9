@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8180](https://github.com/promptfoo/promptfoo/pull/8180) in [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+1. 🚀 Published release [v0.2.0 — Tests, Safety, CI](https://github.com/howardpen9/tmux-bridge-mcp/releases/tag/v0.2.0) in [howardpen9/tmux-bridge-mcp](https://github.com/howardpen9/tmux-bridge-mcp)
 <!--END_SECTION:activity-->
 
 ---
