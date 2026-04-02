@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/howardpen9/tmux-bridge-mcp/pull/1) in [howardpen9/tmux-bridge-mcp](https://github.com/howardpen9/tmux-bridge-mcp)
+1. 💪 Opened PR [#128](https://github.com/ccplugins/awesome-claude-code-plugins/pull/128) in [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)
 <!--END_SECTION:activity-->
 
 ---
