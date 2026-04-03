@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#377](https://github.com/multica-ai/multica/issues/377) in [multica-ai/multica](https://github.com/multica-ai/multica)
+1. ❗ Opened issue [#383](https://github.com/multica-ai/multica/issues/383) in [multica-ai/multica](https://github.com/multica-ai/multica)
 <!--END_SECTION:activity-->
 
 ---
