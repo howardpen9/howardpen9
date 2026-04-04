@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#383](https://github.com/multica-ai/multica/issues/383) in [multica-ai/multica](https://github.com/multica-ai/multica)
+1. ❗ Opened issue [#170](https://github.com/bfly123/claude_code_bridge/issues/170) in [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge)
 <!--END_SECTION:activity-->
 
 ---
