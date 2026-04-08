@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#170](https://github.com/bfly123/claude_code_bridge/issues/170) in [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge)
+1. 🚀 Published release [OpenMod v0.1.0](https://github.com/openmod-ai/app/releases/tag/v0.1.0) in [openmod-ai/app](https://github.com/openmod-ai/app)
 <!--END_SECTION:activity-->
 
 ---
