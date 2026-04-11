@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [OpenMod v1.0.0](https://github.com/openmod-ai/app/releases/tag/v1.0.0) in [openmod-ai/app](https://github.com/openmod-ai/app)
+1. ❗ Opened issue [#7545](https://github.com/NousResearch/hermes-agent/issues/7545) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 ---
