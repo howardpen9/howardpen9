@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7728](https://github.com/NousResearch/hermes-agent/pull/7728) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. 🗣 Commented on [#7728](https://github.com/NousResearch/hermes-agent/pull/7728#issuecomment-4231684349) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 ---
