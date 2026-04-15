@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/slavingia/skills/pull/22) in [slavingia/skills](https://github.com/slavingia/skills)
+1. ❗ Opened issue [#10020](https://github.com/NousResearch/hermes-agent/issues/10020) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 ---
