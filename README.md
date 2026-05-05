@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/howardpen9/cc-inspect/pull/1) in [howardpen9/cc-inspect](https://github.com/howardpen9/cc-inspect)
+1. 💪 Opened PR [#15](https://github.com/ton-blockchain/tvm-specification/pull/15) in [ton-blockchain/tvm-specification](https://github.com/ton-blockchain/tvm-specification)
 <!--END_SECTION:activity-->
 
 ---
