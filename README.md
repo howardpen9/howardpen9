@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/ton-blockchain/tvm-specification/pull/15) in [ton-blockchain/tvm-specification](https://github.com/ton-blockchain/tvm-specification)
+1. 🗣 Commented on [#15](https://github.com/ton-blockchain/tvm-specification/pull/15#issuecomment-4403692082) in [ton-blockchain/tvm-specification](https://github.com/ton-blockchain/tvm-specification)
 <!--END_SECTION:activity-->
 
 ---
