@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/howardpen9/grok-mcp/releases/tag/v0.1.1) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
+1. 🗣 Commented on [#6902](https://github.com/punkpeye/awesome-mcp-servers/pull/6902#issuecomment-4542948645) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 <!--END_SECTION:activity-->
 
 ---
