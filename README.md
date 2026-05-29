@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6902](https://github.com/punkpeye/awesome-mcp-servers/pull/6902#issuecomment-4542948645) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+1. 🗣 Commented on [#551](https://github.com/antoncoding/monarch/pull/551#issuecomment-4571458321) in [antoncoding/monarch](https://github.com/antoncoding/monarch)
 <!--END_SECTION:activity-->
 
 ---
