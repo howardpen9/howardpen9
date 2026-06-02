@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#9](https://github.com/howardpen9/deepseek-skill/issues/9) in [howardpen9/deepseek-skill](https://github.com/howardpen9/deepseek-skill)
+1. 💪 Opened PR [#15](https://github.com/howardpen9/grok-mcp/pull/15) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
 <!--END_SECTION:activity-->
 
 ---
