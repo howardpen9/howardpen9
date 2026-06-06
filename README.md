@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/howardpen9/grok-mcp/pull/15) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
+1. 🎉 Merged PR [#17](https://github.com/howardpen9/grok-mcp/pull/17) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
 <!--END_SECTION:activity-->
 
 ---
