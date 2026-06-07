@@ -145,7 +145,7 @@ Things I've built or explored — open source, shipped, or still private.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/howardpen9/grok-mcp/pull/17) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
+1. 🎉 Merged PR [#13](https://github.com/howardpen9/awesome-ai-api-proxy/pull/13) in [howardpen9/awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy)
 <!--END_SECTION:activity-->
 
 ---
