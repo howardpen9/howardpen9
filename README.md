@@ -91,6 +91,13 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 
 ---
 
+## 📈 Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🛠️ Build Timeline
 
 <details>
