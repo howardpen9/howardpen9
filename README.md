@@ -152,7 +152,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/howardpen9/awesome-ai-api-proxy/pull/20) in [howardpen9/awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy)
+1. ❗ Opened issue [#979](https://github.com/Merit-Systems/x402scan/issues/979) in [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan)
 <!--END_SECTION:activity-->
 
 ---
