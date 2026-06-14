@@ -152,7 +152,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#979](https://github.com/Merit-Systems/x402scan/issues/979) in [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan)
+1. ❗ Opened issue [#19](https://github.com/WEIFENG2333/phistory/issues/19) in [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory)
 <!--END_SECTION:activity-->
 
 ---
