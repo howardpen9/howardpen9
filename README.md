@@ -152,7 +152,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/WEIFENG2333/phistory/issues/19) in [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory)
+1. 🗣 Commented on [#7749](https://github.com/punkpeye/awesome-mcp-servers/pull/7749#issuecomment-4716692805) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 <!--END_SECTION:activity-->
 
 ---
