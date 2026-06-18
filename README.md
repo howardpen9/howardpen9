@@ -17,7 +17,7 @@ const howard = {
     repos: 255,
     since: 2018,
     motto: "Ship it. Open-source it. Move on.",
-    location: "Building x402video — pay-per-call AI video over HTTP 402. USDC on Base, no accounts, no API keys. ex-TON contracts. Pacific Ocean 🌊",
+    location: "Building x402video — pay-per-call AI video over HTTP 402. USDC on Base, no accounts, no API keys. Pacific Ocean 🌊",
 };
 ```
 
