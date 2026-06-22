@@ -150,7 +150,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7749](https://github.com/punkpeye/awesome-mcp-servers/pull/7749#issuecomment-4716692805) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+1. 🎉 Merged PR [#20](https://github.com/howardpen9/grok-mcp/pull/20) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
 <!--END_SECTION:activity-->
 
 ---
