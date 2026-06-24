@@ -150,7 +150,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#27](https://github.com/howardpen9/grok-mcp/issues/27) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
+1. ℹ️ Labeled issue [#24](https://github.com/howardpen9/grok-mcp/issues/24) in [howardpen9/grok-mcp](https://github.com/howardpen9/grok-mcp)
 <!--END_SECTION:activity-->
 
 ---
