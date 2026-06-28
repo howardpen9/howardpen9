@@ -150,7 +150,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/x402-video/web/issues/2) in [x402-video/web](https://github.com/x402-video/web)
+1. 🎉 Merged PR [#3](https://github.com/x402-video/web/pull/3) in [x402-video/web](https://github.com/x402-video/web)
 <!--END_SECTION:activity-->
 
 ---
