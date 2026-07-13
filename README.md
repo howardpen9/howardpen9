@@ -150,7 +150,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16311](https://github.com/anomalyco/opencode/issues/16311#issuecomment-4888192192) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. ❌ Closed PR [#35](https://github.com/howardpen9/awesome-ai-api-proxy/pull/35) in [howardpen9/awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy)
 <!--END_SECTION:activity-->
 
 ---
