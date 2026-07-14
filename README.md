@@ -150,7 +150,7 @@ Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/howardpen9/awesome-ai-api-proxy/pull/35) in [howardpen9/awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy)
+1. 💪 Opened PR [#84](https://github.com/xai-org/plugin-marketplace/pull/84) in [xai-org/plugin-marketplace](https://github.com/xai-org/plugin-marketplace)
 <!--END_SECTION:activity-->
 
 ---
