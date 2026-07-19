@@ -1,9 +1,8 @@
+# Disabled: profile README no longer includes the WakaTime section
+# (<!--START_SECTION:waka-->). Re-enable if that section is restored.
 name: Waka Readme Stats
 
 on:
-  schedule:
-    # Runs weekly on Sunday at 00:00 UTC
-    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 permissions:

@@ -1,167 +1,119 @@
-<div align="center">
+<!--
+  Profile visual contract: x-watchlist design system
+  (docs/design/design-system.md in x-watchlist)
+  — pure black · zinc steps · single orange accent · no emoji chrome
+-->
+<p>
+  <img src="assets/banner.svg" alt="Howard Peng — agent tooling · cohort intelligence · multi-LLM systems" width="100%" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=howardpen9&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/howardpen9?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/howardpen9?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
-
-</div>
-
----
-
-## `> whoami`
-
-```typescript
+```ts
 const howard = {
-    name: "Howard Peng",
-    builds: "Claude Code × MCP × multi-LLM tooling",
-    motto: "Ship it. Open-source it. Move on.",
-    location: "Building x402video — pay-per-call AI video over HTTP 402. USDC on Base, no accounts, no API keys. Pacific Ocean 🌊",
+  name: "Howard Peng",
+  focus: "agent tooling · behavioral maps of technical cohorts",
+  shipping: "xWatchlist · multi-LLM MCP bridges · x402 video rails",
+  style: "dense signal, minimal chrome",
 };
 ```
 
----
-
-## 🧩 Claude Code & MCP Ecosystem
-
-Tools, skills, and bridges I've shipped for the Claude Code / MCP world.
-**170+ combined stars across 11 repos.**
-
-### MCP Servers — let agents talk to each other
-
-| Repo | ⭐ | What it does |
-|---|---|---|
-| [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | 51 | Bridge Claude Code × Kimi K2.5 (256K context) — delegate bulk codebase analysis, cut token cost ~90% |
-| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | 27 | Cross-pane agent comms — Claude / Gemini / Codex / Kimi CLIs talk to each other through tmux panes |
-| [**grok-mcp**](https://github.com/howardpen9/grok-mcp) | 5 | xAI Grok CLI as MCP peer reviewer, adversary, second-opinion consultant |
-
-### Claude Code Skills — extend the CLI
-
-| Repo | ⭐ | What it does |
-|---|---|---|
-| [**cc-inspect**](https://github.com/howardpen9/cc-inspect) | 15 | Browser dashboard for all installed skills, plugins, MCP servers, commands, hooks |
-| [**deepseek-skill**](https://github.com/howardpen9/deepseek-skill) | 3 | DeepSeek V4 as a Claude Code skill — five modes including adversarial `audit` |
-| [**founder-stack**](https://github.com/howardpen9/founder-stack) | 2 | Entrepreneurial frameworks (MOAT, CAC/LTV, …) packaged as Claude Code skills |
-| [**lumen**](https://github.com/howardpen9/lumen) | 2 | Capture, index, publish — writing skills for the terminal |
-
-### Multi-LLM tooling — orchestrate beyond one model
-
-| Repo | ⭐ | What it does |
-|---|---|---|
-| [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | 42 | Convert Hermes / OpenClaw agent memory (JSONL + MEMORY.md) → markdown for gBrain ingest |
-| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | 10 | Weekly price observatory across LLM gateways — one key, every model, anywhere |
-| [**kimi-code-reviewer**](https://github.com/howardpen9/kimi-code-reviewer) | 8 | GitHub Action — AI code review with Kimi's 256K context |
-| [**claude-code-multi-llm**](https://github.com/howardpen9/claude-code-multi-llm) | 3 | Cross-check with Codex / Kimi / Gemini CLIs from inside Claude Code |
+I build tools that make multi-agent work legible, and maps that show who a technical crowd actually pays attention to.
 
 ---
 
-## 🚀 Products
+### Now
 
-| Project | What it is |
+| Project | |
 |---|---|
-| **[OpenMod.ai](https://openmod.ai)** | macOS multi-model AI collab workspace — your teammates are AI · Next.js · Expo · TypeScript |
-| **[Remem](https://github.com/remem-ai)** | Decode any URL into searchable knowledge — Claude's external brain · macOS · MCP · Swift + TS |
-| **[Whoop Coach](https://github.com/whoop-coach)** | AI health coach on Telegram, powered by WHOOP biometric data · Python |
-| **[Blobverse](https://github.com/blobverse)** | .io battle royale where AI agents fight to survive · TypeScript |
-| **[AI Radar](https://github.com/ai-radar-hq)** | Daily AI ecosystem digest — auto-curated news reader · TypeScript |
+| **[xWatchlist](https://github.com/howardpen9/x-watchlist)** | Behavioral map of a technical X cohort — who lurks, who broadcasts, who they amplify. Live on xAI's team; same engine on any list. |
+| **[OpenMod.ai](https://openmod.ai)** | macOS multi-model collab workspace — teammates are AI. Next.js · Expo · TypeScript. |
+| **[Remem](https://github.com/remem-ai)** | Decode any URL into searchable knowledge — Claude's external brain. macOS · MCP · Swift + TS. |
 
 ---
 
-## ⛓️ TON Smart Contracts
+### Agent tooling
 
-**272+ combined stars across 3 contract templates.**
+MCP servers and Claude Code skills for multi-LLM workflows.
+**<!--stars-sum:ecosystem-->272+<!--/stars-sum-->** stars across 11 repos.
 
-| Repo | ⭐ | What it does |
-|---|---|---|
-| [**nft-template-in-tact**](https://github.com/howardpen9/nft-template-in-tact) | 127 | NFT smart contract template in Tact |
-| [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | 114 | Jetton (TON token) implementation |
-| [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | 31 | Staking contract for Jetton tokens |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
-<img src="https://raw.githubusercontent.com/howardpen9/howardpen9/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-
-</div>
-
----
-
-## 📈 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🛠️ Build Timeline
+| Repo | Stars | |
+|---|---:|---|
+| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->77<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
+| [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | <!--stars:howardpen9/hermes-gbrain-bridge-->59<!--/stars--> | Hermes / OpenClaw memory → markdown for gBrain ingest |
+| [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | <!--stars:howardpen9/kimi-code-mcp-->58<!--/stars--> | Claude Code × Kimi (256K) — bulk codebase analysis, ~90% token cut |
+| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->31<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
+| [**cc-inspect**](https://github.com/howardpen9/cc-inspect) | <!--stars:howardpen9/cc-inspect-->16<!--/stars--> | Browser dashboard for skills, plugins, MCP servers, hooks |
+| [**grok-mcp**](https://github.com/howardpen9/grok-mcp) | <!--stars:howardpen9/grok-mcp-->10<!--/stars--> | xAI Grok as peer reviewer / adversary / second opinion |
 
 <details>
-<summary>Things I've built or explored — open source, shipped, or still private (click to expand)</summary>
+<summary>More agent tooling</summary>
 
-| Period | Project | What I built | Stack |
-|--------|---------|-------------|-------|
-| 2026 Q2 | **awesome-ai-api-proxy** | Weekly price observatory across LLM gateways — tier-ladder canonical models, automated scrapers | Python · GH Actions |
-| 2026 Q2 | **xpass** | X-subscriber-gated SDK — OAuth + verify via X Creator Subscriptions as paywall | TypeScript |
-| 2026 Q2 | **topic-radar** | English X-topic radar feeding bilingual content ideation via daily TG digest | TypeScript |
-| 2026 Q1 | **OpenMod.ai** | Slack-like workspace where teammates are AI agents — web-first, free credits | Next.js · Expo · TS |
-| 2026 Q1 | **Lumen** | AI writing studio — capture via voice/paste, AI categorizes, publish to social | React 19 · Kimi · Typefully |
-| 2026 Q1 | **Good Vibe** | macOS QA wrapper — BYOK, YC × Anthropic aesthetic | Tauri · Rust · TS |
-| 2026 Q1 | **Blobverse** | .io battle royale where AI agents fight to survive — real-time multiplayer | TypeScript |
-| 2025 Q4 | **Remem** | macOS app + MCP server — decode any URL into searchable knowledge | Swift · TypeScript |
-| 2025 Q4 | **Agent Hub** | Multi-agent orchestration with tier-based routing (T0–T3), Claude CLI subprocess | TypeScript · Express |
-| 2025 Q4 | **AI Radar** | Daily AI ecosystem digest for builders | TypeScript |
-| 2025 Q3 | **Nexus Dashboard** | OpenClaw web dashboard — multi-agent sessions, real-time WebSocket | React · Express · WS |
-| 2025 Q3 | **Whoop Coach** | AI health coach on TG — WHOOP biometrics → coaching insights | Python |
-| 2024 | **copytrading-agent** | On-chain copy trading automation on Hyperliquid | — |
-| 2023–24 | **TON Smart Contracts** | NFT template, Jetton token, staking — 272+ combined stars | Tact · FunC |
+| Repo | Stars | |
+|---|---:|---|
+| [**kimi-code-reviewer**](https://github.com/howardpen9/kimi-code-reviewer) | <!--stars:howardpen9/kimi-code-reviewer-->9<!--/stars--> | GitHub Action — AI review with Kimi 256K context |
+| [**claude-code-multi-llm**](https://github.com/howardpen9/claude-code-multi-llm) | <!--stars:howardpen9/claude-code-multi-llm-->3<!--/stars--> | Cross-check with Codex / Kimi / Gemini from Claude Code |
+| [**deepseek-skill**](https://github.com/howardpen9/deepseek-skill) | <!--stars:howardpen9/deepseek-skill-->5<!--/stars--> | DeepSeek as Claude Code skill — five modes incl. `audit` |
+| [**founder-stack**](https://github.com/howardpen9/founder-stack) | <!--stars:howardpen9/founder-stack-->2<!--/stars--> | Entrepreneur frameworks as Claude Code skills |
+| [**lumen**](https://github.com/howardpen9/lumen) | <!--stars:howardpen9/lumen-->2<!--/stars--> | Capture · index · publish — writing skills for the terminal |
 
 </details>
 
 ---
 
-## 🌍 Top Contributed Repositories
+### Earlier — TON contracts
+
+**<!--stars-sum:ton-->275+<!--/stars-sum-->** stars on three Tact templates: [NFT](https://github.com/howardpen9/nft-template-in-tact) · [Jetton](https://github.com/howardpen9/jetton-implementation-in-tact) · [Staking](https://github.com/howardpen9/staking-in-tact)
+
+| Repo | Stars |
+|---|---:|
+| [**nft-template-in-tact**](https://github.com/howardpen9/nft-template-in-tact) | <!--stars:howardpen9/nft-template-in-tact-->128<!--/stars--> |
+| [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | <!--stars:howardpen9/jetton-implementation-in-tact-->115<!--/stars--> |
+| [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | <!--stars:howardpen9/staking-in-tact-->32<!--/stars--> |
+
+---
 
 <details>
-<summary>Show repositories (13)</summary>
+<summary>Selected products & timeline</summary>
 
-| Repository | Stars | Language | Description |
-|:---|:---:|:---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | 96.3k | Python | Public repository for Agent Skills |
-| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | 83.4k | — | A collection of MCP servers |
-| [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | 21.3k | Rust | Google Workspace CLI — Drive, Gmail, Calendar, Sheets, and more |
-| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | 20.7k | TypeScript | An open-source AI agent that lives in your terminal |
-| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | 17.3k | TypeScript | Test your prompts, agents, and RAGs. Red teaming / vulnerability scanning |
-| [**slopus/happy**](https://github.com/slopus/happy) | 15.6k | TypeScript | Mobile and Web client for Codex and Claude Code, with realtime voice |
-| [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | 11.3k | Python | Claude Code / GeminiCLI / CodexCLI + multi-provider AI support |
-| [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | 10.3k | Rust | IronClaw — OpenClaw-inspired implementation in Rust focused on privacy |
-| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | 8.4k | Python | General-purpose sandbox platform for AI applications |
-| [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | 7.2k | Python | Kimi Code CLI — your next CLI agent |
-| [**0xPlaygrounds/rig**](https://github.com/0xPlaygrounds/rig) | 6.6k | Rust | Build modular and scalable LLM Applications in Rust |
-| [**steipete/summarize**](https://github.com/steipete/summarize) | 5.1k | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. |
-| [**ton-community/ton-docs**](https://github.com/ton-community/ton-docs) | 371 | MDX | TON Documentation |
+| Project | |
+|---|---|
+| [**Whoop Coach**](https://github.com/whoop-coach) | AI health coach on Telegram — WHOOP biometrics |
+| [**Blobverse**](https://github.com/blobverse) | .io battle royale where AI agents fight |
+| [**AI Radar**](https://github.com/ai-radar-hq) | Daily AI ecosystem digest |
+
+| Period | Built |
+|--------|-------|
+| 2026 | xWatchlist · awesome-ai-api-proxy · xpass · topic-radar · OpenMod · Lumen · Good Vibe · Blobverse |
+| 2025 | Remem · Agent Hub · AI Radar · Nexus Dashboard · Whoop Coach |
+| 2023–24 | TON smart contract templates · on-chain experiments |
+
+</details>
+
+<details>
+<summary>Top contributed repositories</summary>
+
+| Repository | Stars | |
+|:---|---:|:---|
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->162.5k<!--/stars--> | Agent Skills |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->91k<!--/stars--> | MCP server index |
+| [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->29.8k<!--/stars--> | Workspace CLI |
+| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->26.1k<!--/stars--> | Terminal AI agent |
+| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->23.4k<!--/stars--> | Prompt / agent eval |
+| [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->22.7k<!--/stars--> | Mobile + web for Codex / Claude |
+| [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.7k<!--/stars--> | Multi-provider AI MCP |
+| [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | <!--stars:nearai/ironclaw format=k-->12.5k<!--/stars--> | Privacy-focused OpenClaw in Rust |
+| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->12.1k<!--/stars--> | Sandbox for AI apps |
+| [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | <!--stars:MoonshotAI/kimi-cli format=k-->9.6k<!--/stars--> | Kimi Code CLI |
+| [**0xPlaygrounds/rig**](https://github.com/0xPlaygrounds/rig) | <!--stars:0xPlaygrounds/rig format=k-->8k<!--/stars--> | LLM apps in Rust |
+| [**steipete/summarize**](https://github.com/steipete/summarize) | <!--stars:steipete/summarize format=k-->6.4k<!--/stars--> | URL / podcast gist |
+| [**ton-community/ton-docs**](https://github.com/ton-community/ton-docs) | <!--stars:ton-community/ton-docs-->374<!--/stars--> | TON documentation |
 
 </details>
 
 ---
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/howardpen9/awesome-ai-api-proxy/pull/38#issuecomment-5005120205) in [howardpen9/awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy)
-<!--END_SECTION:activity-->
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haoen-peng)
-[![Twitter](https://img.shields.io/badge/@0xHoward-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xhoward)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/telepeng)
-[![Dune](https://img.shields.io/badge/Dune_Analytics-F0603E?style=for-the-badge&logo=dune&logoColor=white)](https://dune.com/Howard_Peng)
-
-</div>
+```
+X          @0xHoward        https://x.com/0xhoward
+LinkedIn   Haoen Peng       https://www.linkedin.com/in/haoen-peng
+Telegram   @telepeng        https://t.me/telepeng
+Dune       Howard_Peng      https://dune.com/Howard_Peng
+```

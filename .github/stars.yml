@@ -1,0 +1,30 @@
+# Repos whose star counts are auto-refreshed in README.md
+# Marker syntax in README:
+#   <!--stars:owner/repo-->123<!--/stars-->
+#   <!--stars:owner/repo format=k-->12.3k<!--/stars-->
+#   <!--stars-sum:group_id-->456+<!--/stars-sum-->
+
+sums:
+  ecosystem:
+    # Claude Code & MCP ecosystem section (11 repos)
+    repos:
+      - howardpen9/kimi-code-mcp
+      - howardpen9/tmux-bridge-mcp
+      - howardpen9/grok-mcp
+      - howardpen9/cc-inspect
+      - howardpen9/deepseek-skill
+      - howardpen9/founder-stack
+      - howardpen9/lumen
+      - howardpen9/hermes-gbrain-bridge
+      - howardpen9/awesome-ai-api-proxy
+      - howardpen9/kimi-code-reviewer
+      - howardpen9/claude-code-multi-llm
+    format: "+"
+
+  ton:
+    # TON Smart Contracts section (3 repos)
+    repos:
+      - howardpen9/nft-template-in-tact
+      - howardpen9/jetton-implementation-in-tact
+      - howardpen9/staking-in-tact
+    format: "+"
