@@ -4,19 +4,19 @@
   — pure black · zinc steps · single orange accent · no emoji chrome
 -->
 <p>
-  <img src="assets/banner.svg" alt="Howard Peng — agent tooling · cohort intelligence · multi-LLM systems" width="100%" />
+  <img src="assets/banner.svg" alt="Howard Peng — x402 video · agent tooling · cohort intelligence" width="100%" />
 </p>
 
 ```ts
 const howard = {
   name: "Howard Peng",
-  focus: "agent tooling · behavioral maps of technical cohorts",
-  shipping: "xWatchlist · multi-LLM MCP bridges · x402 video rails",
+  focus: "x402 video rails · agent tooling · cohort intelligence",
+  shipping: "x402video · MakeReel · xWatchlist · multi-LLM MCP bridges",
   style: "dense signal, minimal chrome",
 };
 ```
 
-I build tools that make multi-agent work legible, and maps that show who a technical crowd actually pays attention to.
+I ship pay-per-call AI video over x402, tools that make multi-agent work legible, and maps of who a technical crowd actually pays attention to.
 
 ---
 
@@ -24,9 +24,9 @@ I build tools that make multi-agent work legible, and maps that show who a techn
 
 | Project | |
 |---|---|
+| **[x402video.com](https://x402video.com)** | Pay-per-call AI video over x402 — no accounts, no API keys. HTTP 402 → USDC on Base → generate. Built for developers and autonomous agents. |
+| **[MakeReel.xyz](https://makereel.xyz)** | Template → dials → Seedance 2.0 clip. No subscription; pay per clip in USDC on Base from $0.26. |
 | **[xWatchlist](https://github.com/howardpen9/x-watchlist)** | Behavioral map of a technical X cohort — who lurks, who broadcasts, who they amplify. Live on xAI's team; same engine on any list. |
-| **[OpenMod.ai](https://openmod.ai)** | macOS multi-model collab workspace — teammates are AI. Next.js · Expo · TypeScript. |
-| **[Remem](https://github.com/remem-ai)** | Decode any URL into searchable knowledge — Claude's external brain. macOS · MCP · Swift + TS. |
 
 ---
 
@@ -76,13 +76,15 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Project | |
 |---|---|
+| [**OpenMod.ai**](https://openmod.ai) | macOS multi-model collab workspace — teammates are AI |
+| [**Remem**](https://github.com/remem-ai) | Decode any URL into searchable knowledge — Claude's external brain |
 | [**Whoop Coach**](https://github.com/whoop-coach) | AI health coach on Telegram — WHOOP biometrics |
 | [**Blobverse**](https://github.com/blobverse) | .io battle royale where AI agents fight |
 | [**AI Radar**](https://github.com/ai-radar-hq) | Daily AI ecosystem digest |
 
 | Period | Built |
 |--------|-------|
-| 2026 | xWatchlist · awesome-ai-api-proxy · xpass · topic-radar · OpenMod · Lumen · Good Vibe · Blobverse |
+| 2026 | x402video · MakeReel · xWatchlist · awesome-ai-api-proxy · xpass · topic-radar · OpenMod · Lumen · Good Vibe · Blobverse |
 | 2025 | Remem · Agent Hub · AI Radar · Nexus Dashboard · Whoop Coach |
 | 2023–24 | TON smart contract templates · on-chain experiments |
 
