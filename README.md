@@ -95,16 +95,16 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->164.5k<!--/stars--> | Agent Skills |
-| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->91.4k<!--/stars--> | MCP server index |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->164.7k<!--/stars--> | Agent Skills |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->91.5k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->30k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->26.4k<!--/stars--> | Terminal AI agent |
-| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->23.6k<!--/stars--> | Prompt / agent eval |
+| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->23.7k<!--/stars--> | Prompt / agent eval |
 | [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->22.9k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.7k<!--/stars--> | Multi-provider AI MCP |
 | [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | <!--stars:nearai/ironclaw format=k-->12.6k<!--/stars--> | Privacy-focused OpenClaw in Rust |
 | [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->12.2k<!--/stars--> | Sandbox for AI apps |
-| [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | <!--stars:MoonshotAI/kimi-cli format=k-->10.9k<!--/stars--> | Kimi Code CLI |
+| [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | <!--stars:MoonshotAI/kimi-cli format=k-->11k<!--/stars--> | Kimi Code CLI |
 | [**0xPlaygrounds/rig**](https://github.com/0xPlaygrounds/rig) | <!--stars:0xPlaygrounds/rig format=k-->8.1k<!--/stars--> | LLM apps in Rust |
 | [**steipete/summarize**](https://github.com/steipete/summarize) | <!--stars:steipete/summarize format=k-->6.5k<!--/stars--> | URL / podcast gist |
 | [**ton-community/ton-docs**](https://github.com/ton-community/ton-docs) | <!--stars:ton-community/ton-docs-->373<!--/stars--> | TON documentation |
