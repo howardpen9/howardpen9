@@ -33,7 +33,7 @@ I ship pay-per-call AI video over x402, tools that make multi-agent work legible
 ### Agent tooling
 
 MCP servers and Claude Code skills for multi-LLM workflows.
-**<!--stars-sum:ecosystem-->344+<!--/stars-sum-->** stars across 11 repos.
+**<!--stars-sum:ecosystem-->345+<!--/stars-sum-->** stars across 11 repos.
 
 | Repo | Stars | |
 |---|---:|---|
@@ -42,7 +42,7 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 | [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | <!--stars:howardpen9/kimi-code-mcp-->61<!--/stars--> | Claude Code × Kimi (256K) — bulk codebase analysis, ~90% token cut |
 | [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->72<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
 | [**cc-inspect**](https://github.com/howardpen9/cc-inspect) | <!--stars:howardpen9/cc-inspect-->17<!--/stars--> | Browser dashboard for skills, plugins, MCP servers, hooks |
-| [**grok-mcp**](https://github.com/howardpen9/grok-mcp) | <!--stars:howardpen9/grok-mcp-->10<!--/stars--> | xAI Grok as peer reviewer / adversary / second opinion |
+| [**grok-mcp**](https://github.com/howardpen9/grok-mcp) | <!--stars:howardpen9/grok-mcp-->11<!--/stars--> | xAI Grok as peer reviewer / adversary / second opinion |
 
 <details>
 <summary>More agent tooling</summary>
@@ -95,10 +95,10 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->172k<!--/stars--> | Agent Skills |
-| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->92.9k<!--/stars--> | MCP server index |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->172.2k<!--/stars--> | Agent Skills |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->93k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->30.6k<!--/stars--> | Workspace CLI |
-| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->27.4k<!--/stars--> | Terminal AI agent |
+| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->27.5k<!--/stars--> | Terminal AI agent |
 | [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->24.6k<!--/stars--> | Prompt / agent eval |
 | [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->23.5k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.7k<!--/stars--> | Multi-provider AI MCP |
