@@ -33,14 +33,14 @@ I ship pay-per-call AI video over x402, tools that make multi-agent work legible
 ### Agent tooling
 
 MCP servers and Claude Code skills for multi-LLM workflows.
-**<!--stars-sum:ecosystem-->351+<!--/stars-sum-->** stars across 11 repos.
+**<!--stars-sum:ecosystem-->354+<!--/stars-sum-->** stars across 11 repos.
 
 | Repo | Stars | |
 |---|---:|---|
-| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->100<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
-| [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | <!--stars:howardpen9/hermes-gbrain-bridge-->64<!--/stars--> | Hermes / OpenClaw memory → markdown for gBrain ingest |
+| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->99<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
+| [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | <!--stars:howardpen9/hermes-gbrain-bridge-->65<!--/stars--> | Hermes / OpenClaw memory → markdown for gBrain ingest |
 | [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | <!--stars:howardpen9/kimi-code-mcp-->61<!--/stars--> | Claude Code × Kimi (256K) — bulk codebase analysis, ~90% token cut |
-| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->76<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
+| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->78<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
 | [**cc-inspect**](https://github.com/howardpen9/cc-inspect) | <!--stars:howardpen9/cc-inspect-->17<!--/stars--> | Browser dashboard for skills, plugins, MCP servers, hooks |
 | [**grok-mcp**](https://github.com/howardpen9/grok-mcp) | <!--stars:howardpen9/grok-mcp-->11<!--/stars--> | xAI Grok as peer reviewer / adversary / second opinion |
 
@@ -51,7 +51,7 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 |---|---:|---|
 | [**kimi-code-reviewer**](https://github.com/howardpen9/kimi-code-reviewer) | <!--stars:howardpen9/kimi-code-reviewer-->9<!--/stars--> | GitHub Action — AI review with Kimi 256K context |
 | [**claude-code-multi-llm**](https://github.com/howardpen9/claude-code-multi-llm) | <!--stars:howardpen9/claude-code-multi-llm-->3<!--/stars--> | Cross-check with Codex / Kimi / Gemini from Claude Code |
-| [**deepseek-skill**](https://github.com/howardpen9/deepseek-skill) | <!--stars:howardpen9/deepseek-skill-->6<!--/stars--> | DeepSeek as Claude Code skill — five modes incl. `audit` |
+| [**deepseek-skill**](https://github.com/howardpen9/deepseek-skill) | <!--stars:howardpen9/deepseek-skill-->7<!--/stars--> | DeepSeek as Claude Code skill — five modes incl. `audit` |
 | [**founder-stack**](https://github.com/howardpen9/founder-stack) | <!--stars:howardpen9/founder-stack-->2<!--/stars--> | Entrepreneur frameworks as Claude Code skills |
 | [**lumen**](https://github.com/howardpen9/lumen) | <!--stars:howardpen9/lumen-->2<!--/stars--> | Capture · index · publish — writing skills for the terminal |
 
@@ -95,15 +95,15 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->173.4k<!--/stars--> | Agent Skills |
-| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->93.9k<!--/stars--> | MCP server index |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->173.9k<!--/stars--> | Agent Skills |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->94.1k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->30.7k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->27.6k<!--/stars--> | Terminal AI agent |
 | [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->24.8k<!--/stars--> | Prompt / agent eval |
 | [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->23.6k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.7k<!--/stars--> | Multi-provider AI MCP |
 | [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | <!--stars:nearai/ironclaw format=k-->12.6k<!--/stars--> | Privacy-focused OpenClaw in Rust |
-| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->14.9k<!--/stars--> | Sandbox for AI apps |
+| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->15k<!--/stars--> | Sandbox for AI apps |
 | [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | <!--stars:MoonshotAI/kimi-cli format=k-->11.3k<!--/stars--> | Kimi Code CLI |
 | [**0xPlaygrounds/rig**](https://github.com/0xPlaygrounds/rig) | <!--stars:0xPlaygrounds/rig format=k-->8.5k<!--/stars--> | LLM apps in Rust |
 | [**steipete/summarize**](https://github.com/steipete/summarize) | <!--stars:steipete/summarize format=k-->6.6k<!--/stars--> | URL / podcast gist |
