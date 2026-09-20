@@ -95,7 +95,7 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->177.1k<!--/stars--> | Agent Skills |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->177.2k<!--/stars--> | Agent Skills |
 | [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->95.3k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->31.1k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->28k<!--/stars--> | Terminal AI agent |
