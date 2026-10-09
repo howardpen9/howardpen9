@@ -96,14 +96,14 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 | Repository | Stars | |
 |:---|---:|:---|
 | [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->180.1k<!--/stars--> | Agent Skills |
-| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->95.9k<!--/stars--> | MCP server index |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->96k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->31.3k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->28.4k<!--/stars--> | Terminal AI agent |
 | [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->25.8k<!--/stars--> | Prompt / agent eval |
 | [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->24.1k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.8k<!--/stars--> | Multi-provider AI MCP |
 | [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | <!--stars:nearai/ironclaw format=k-->12.6k<!--/stars--> | Privacy-focused OpenClaw in Rust |
-| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->15.7k<!--/stars--> | Sandbox for AI apps |
+| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->15.8k<!--/stars--> | Sandbox for AI apps |
 | [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | <!--stars:MoonshotAI/kimi-cli format=k-->11.4k<!--/stars--> | Kimi Code CLI |
 | [**0xPlaygrounds/rig**](https://github.com/0xPlaygrounds/rig) | <!--stars:0xPlaygrounds/rig format=k-->8.8k<!--/stars--> | LLM apps in Rust |
 | [**steipete/summarize**](https://github.com/steipete/summarize) | <!--stars:steipete/summarize format=k-->6.7k<!--/stars--> | URL / podcast gist |
