@@ -33,11 +33,11 @@ I ship pay-per-call AI video over x402, tools that make multi-agent work legible
 ### Agent tooling
 
 MCP servers and Claude Code skills for multi-LLM workflows.
-**<!--stars-sum:ecosystem-->376+<!--/stars-sum-->** stars across 11 repos.
+**<!--stars-sum:ecosystem-->378+<!--/stars-sum-->** stars across 11 repos.
 
 | Repo | Stars | |
 |---|---:|---|
-| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->101<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
+| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->103<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
 | [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | <!--stars:howardpen9/hermes-gbrain-bridge-->69<!--/stars--> | Hermes / OpenClaw memory → markdown for gBrain ingest |
 | [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | <!--stars:howardpen9/kimi-code-mcp-->61<!--/stars--> | Claude Code × Kimi (256K) — bulk codebase analysis, ~90% token cut |
 | [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->94<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
@@ -61,12 +61,12 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 ### Earlier — TON contracts
 
-**<!--stars-sum:ton-->278+<!--/stars-sum-->** stars on three Tact templates: [NFT](https://github.com/howardpen9/nft-template-in-tact) · [Jetton](https://github.com/howardpen9/jetton-implementation-in-tact) · [Staking](https://github.com/howardpen9/staking-in-tact)
+**<!--stars-sum:ton-->279+<!--/stars-sum-->** stars on three Tact templates: [NFT](https://github.com/howardpen9/nft-template-in-tact) · [Jetton](https://github.com/howardpen9/jetton-implementation-in-tact) · [Staking](https://github.com/howardpen9/staking-in-tact)
 
 | Repo | Stars |
 |---|---:|
 | [**nft-template-in-tact**](https://github.com/howardpen9/nft-template-in-tact) | <!--stars:howardpen9/nft-template-in-tact-->128<!--/stars--> |
-| [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | <!--stars:howardpen9/jetton-implementation-in-tact-->115<!--/stars--> |
+| [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | <!--stars:howardpen9/jetton-implementation-in-tact-->116<!--/stars--> |
 | [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | <!--stars:howardpen9/staking-in-tact-->35<!--/stars--> |
 
 ---
@@ -95,15 +95,15 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181k<!--/stars--> | Agent Skills |
-| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->96.3k<!--/stars--> | MCP server index |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181.3k<!--/stars--> | Agent Skills |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->96.4k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->31.5k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->28.5k<!--/stars--> | Terminal AI agent |
 | [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->26k<!--/stars--> | Prompt / agent eval |
-| [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->24.1k<!--/stars--> | Mobile + web for Codex / Claude |
+| [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->24.2k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.8k<!--/stars--> | Multi-provider AI MCP |
 | [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | <!--stars:nearai/ironclaw format=k-->12.7k<!--/stars--> | Privacy-focused OpenClaw in Rust |
-| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->15.8k<!--/stars--> | Sandbox for AI apps |
+| [**alibaba/OpenSandbox**](https://github.com/alibaba/OpenSandbox) | <!--stars:alibaba/OpenSandbox format=k-->15.9k<!--/stars--> | Sandbox for AI apps |
 | [**MoonshotAI/kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | <!--stars:MoonshotAI/kimi-cli format=k-->11.4k<!--/stars--> | Kimi Code CLI |
 | [**0xPlaygrounds/rig**](https://github.com/0xPlaygrounds/rig) | <!--stars:0xPlaygrounds/rig format=k-->8.9k<!--/stars--> | LLM apps in Rust |
 | [**steipete/summarize**](https://github.com/steipete/summarize) | <!--stars:steipete/summarize format=k-->6.7k<!--/stars--> | URL / podcast gist |
