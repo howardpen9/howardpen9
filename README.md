@@ -33,14 +33,14 @@ I ship pay-per-call AI video over x402, tools that make multi-agent work legible
 ### Agent tooling
 
 MCP servers and Claude Code skills for multi-LLM workflows.
-**<!--stars-sum:ecosystem-->378+<!--/stars-sum-->** stars across 11 repos.
+**<!--stars-sum:ecosystem-->380+<!--/stars-sum-->** stars across 11 repos.
 
 | Repo | Stars | |
 |---|---:|---|
 | [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->103<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
 | [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | <!--stars:howardpen9/hermes-gbrain-bridge-->69<!--/stars--> | Hermes / OpenClaw memory → markdown for gBrain ingest |
 | [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | <!--stars:howardpen9/kimi-code-mcp-->61<!--/stars--> | Claude Code × Kimi (256K) — bulk codebase analysis, ~90% token cut |
-| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->94<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
+| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->96<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
 | [**cc-inspect**](https://github.com/howardpen9/cc-inspect) | <!--stars:howardpen9/cc-inspect-->17<!--/stars--> | Browser dashboard for skills, plugins, MCP servers, hooks |
 | [**grok-mcp**](https://github.com/howardpen9/grok-mcp) | <!--stars:howardpen9/grok-mcp-->11<!--/stars--> | xAI Grok as peer reviewer / adversary / second opinion |
 
@@ -61,13 +61,13 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 ### Earlier — TON contracts
 
-**<!--stars-sum:ton-->279+<!--/stars-sum-->** stars on three Tact templates: [NFT](https://github.com/howardpen9/nft-template-in-tact) · [Jetton](https://github.com/howardpen9/jetton-implementation-in-tact) · [Staking](https://github.com/howardpen9/staking-in-tact)
+**<!--stars-sum:ton-->280+<!--/stars-sum-->** stars on three Tact templates: [NFT](https://github.com/howardpen9/nft-template-in-tact) · [Jetton](https://github.com/howardpen9/jetton-implementation-in-tact) · [Staking](https://github.com/howardpen9/staking-in-tact)
 
 | Repo | Stars |
 |---|---:|
 | [**nft-template-in-tact**](https://github.com/howardpen9/nft-template-in-tact) | <!--stars:howardpen9/nft-template-in-tact-->128<!--/stars--> |
 | [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | <!--stars:howardpen9/jetton-implementation-in-tact-->116<!--/stars--> |
-| [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | <!--stars:howardpen9/staking-in-tact-->35<!--/stars--> |
+| [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | <!--stars:howardpen9/staking-in-tact-->36<!--/stars--> |
 
 ---
 
@@ -95,7 +95,7 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181.3k<!--/stars--> | Agent Skills |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181.5k<!--/stars--> | Agent Skills |
 | [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->96.4k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->31.5k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->28.5k<!--/stars--> | Terminal AI agent |
