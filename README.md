@@ -61,12 +61,12 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 ### Earlier — TON contracts
 
-**<!--stars-sum:ton-->280+<!--/stars-sum-->** stars on three Tact templates: [NFT](https://github.com/howardpen9/nft-template-in-tact) · [Jetton](https://github.com/howardpen9/jetton-implementation-in-tact) · [Staking](https://github.com/howardpen9/staking-in-tact)
+**<!--stars-sum:ton-->281+<!--/stars-sum-->** stars on three Tact templates: [NFT](https://github.com/howardpen9/nft-template-in-tact) · [Jetton](https://github.com/howardpen9/jetton-implementation-in-tact) · [Staking](https://github.com/howardpen9/staking-in-tact)
 
 | Repo | Stars |
 |---|---:|
 | [**nft-template-in-tact**](https://github.com/howardpen9/nft-template-in-tact) | <!--stars:howardpen9/nft-template-in-tact-->128<!--/stars--> |
-| [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | <!--stars:howardpen9/jetton-implementation-in-tact-->116<!--/stars--> |
+| [**jetton-implementation-in-tact**](https://github.com/howardpen9/jetton-implementation-in-tact) | <!--stars:howardpen9/jetton-implementation-in-tact-->117<!--/stars--> |
 | [**staking-in-tact**](https://github.com/howardpen9/staking-in-tact) | <!--stars:howardpen9/staking-in-tact-->36<!--/stars--> |
 
 ---
@@ -95,11 +95,11 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181.5k<!--/stars--> | Agent Skills |
-| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->96.4k<!--/stars--> | MCP server index |
-| [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->31.5k<!--/stars--> | Workspace CLI |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181.7k<!--/stars--> | Agent Skills |
+| [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->96.5k<!--/stars--> | MCP server index |
+| [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->31.6k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->28.5k<!--/stars--> | Terminal AI agent |
-| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->26k<!--/stars--> | Prompt / agent eval |
+| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->26.1k<!--/stars--> | Prompt / agent eval |
 | [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->24.2k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.8k<!--/stars--> | Multi-provider AI MCP |
 | [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | <!--stars:nearai/ironclaw format=k-->12.7k<!--/stars--> | Privacy-focused OpenClaw in Rust |
