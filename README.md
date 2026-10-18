@@ -33,11 +33,11 @@ I ship pay-per-call AI video over x402, tools that make multi-agent work legible
 ### Agent tooling
 
 MCP servers and Claude Code skills for multi-LLM workflows.
-**<!--stars-sum:ecosystem-->380+<!--/stars-sum-->** stars across 11 repos.
+**<!--stars-sum:ecosystem-->381+<!--/stars-sum-->** stars across 11 repos.
 
 | Repo | Stars | |
 |---|---:|---|
-| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->103<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
+| [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->104<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
 | [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | <!--stars:howardpen9/hermes-gbrain-bridge-->69<!--/stars--> | Hermes / OpenClaw memory → markdown for gBrain ingest |
 | [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | <!--stars:howardpen9/kimi-code-mcp-->61<!--/stars--> | Claude Code × Kimi (256K) — bulk codebase analysis, ~90% token cut |
 | [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->96<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
@@ -95,10 +95,10 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181.7k<!--/stars--> | Agent Skills |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->181.9k<!--/stars--> | Agent Skills |
 | [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->96.5k<!--/stars--> | MCP server index |
 | [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->31.6k<!--/stars--> | Workspace CLI |
-| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->28.5k<!--/stars--> | Terminal AI agent |
+| [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->28.6k<!--/stars--> | Terminal AI agent |
 | [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->26.1k<!--/stars--> | Prompt / agent eval |
 | [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->24.2k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.8k<!--/stars--> | Multi-provider AI MCP |
