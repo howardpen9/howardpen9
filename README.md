@@ -33,14 +33,14 @@ I ship pay-per-call AI video over x402, tools that make multi-agent work legible
 ### Agent tooling
 
 MCP servers and Claude Code skills for multi-LLM workflows.
-**<!--stars-sum:ecosystem-->405+<!--/stars-sum-->** stars across 11 repos.
+**<!--stars-sum:ecosystem-->411+<!--/stars-sum-->** stars across 11 repos.
 
 | Repo | Stars | |
 |---|---:|---|
 | [**tmux-bridge-mcp**](https://github.com/howardpen9/tmux-bridge-mcp) | <!--stars:howardpen9/tmux-bridge-mcp-->109<!--/stars--> | Cross-pane agent comms — Claude / Gemini / Codex / Kimi via tmux |
 | [**hermes-gbrain-bridge**](https://github.com/howardpen9/hermes-gbrain-bridge) | <!--stars:howardpen9/hermes-gbrain-bridge-->70<!--/stars--> | Hermes / OpenClaw memory → markdown for gBrain ingest |
 | [**kimi-code-mcp**](https://github.com/howardpen9/kimi-code-mcp) | <!--stars:howardpen9/kimi-code-mcp-->63<!--/stars--> | Claude Code × Kimi (256K) — bulk codebase analysis, ~90% token cut |
-| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->112<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
+| [**awesome-ai-api-proxy**](https://github.com/howardpen9/awesome-ai-api-proxy) | <!--stars:howardpen9/awesome-ai-api-proxy-->117<!--/stars--> | Weekly price map across LLM gateways — one key, every model |
 | [**cc-inspect**](https://github.com/howardpen9/cc-inspect) | <!--stars:howardpen9/cc-inspect-->17<!--/stars--> | Browser dashboard for skills, plugins, MCP servers, hooks |
 | [**grok-mcp**](https://github.com/howardpen9/grok-mcp) | <!--stars:howardpen9/grok-mcp-->11<!--/stars--> | xAI Grok as peer reviewer / adversary / second opinion |
 
@@ -49,7 +49,7 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repo | Stars | |
 |---|---:|---|
-| [**kimi-code-reviewer**](https://github.com/howardpen9/kimi-code-reviewer) | <!--stars:howardpen9/kimi-code-reviewer-->9<!--/stars--> | GitHub Action — AI review with Kimi 256K context |
+| [**kimi-code-reviewer**](https://github.com/howardpen9/kimi-code-reviewer) | <!--stars:howardpen9/kimi-code-reviewer-->10<!--/stars--> | GitHub Action — AI review with Kimi 256K context |
 | [**claude-code-multi-llm**](https://github.com/howardpen9/claude-code-multi-llm) | <!--stars:howardpen9/claude-code-multi-llm-->3<!--/stars--> | Cross-check with Codex / Kimi / Gemini from Claude Code |
 | [**deepseek-skill**](https://github.com/howardpen9/deepseek-skill) | <!--stars:howardpen9/deepseek-skill-->7<!--/stars--> | DeepSeek as Claude Code skill — five modes incl. `audit` |
 | [**founder-stack**](https://github.com/howardpen9/founder-stack) | <!--stars:howardpen9/founder-stack-->2<!--/stars--> | Entrepreneur frameworks as Claude Code skills |
@@ -95,11 +95,11 @@ MCP servers and Claude Code skills for multi-LLM workflows.
 
 | Repository | Stars | |
 |:---|---:|:---|
-| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->198.8k<!--/stars--> | Agent Skills |
+| [**anthropics/skills**](https://github.com/anthropics/skills) | <!--stars:anthropics/skills format=k-->199.3k<!--/stars--> | Agent Skills |
 | [**punkpeye/awesome-mcp-servers**](https://github.com/punkpeye/awesome-mcp-servers) | <!--stars:punkpeye/awesome-mcp-servers format=k-->98.4k<!--/stars--> | MCP server index |
-| [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->32.4k<!--/stars--> | Workspace CLI |
+| [**googleworkspace/cli**](https://github.com/googleworkspace/cli) | <!--stars:googleworkspace/cli format=k-->32.5k<!--/stars--> | Workspace CLI |
 | [**QwenLM/qwen-code**](https://github.com/QwenLM/qwen-code) | <!--stars:QwenLM/qwen-code format=k-->30.9k<!--/stars--> | Terminal AI agent |
-| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->27.5k<!--/stars--> | Prompt / agent eval |
+| [**promptfoo/promptfoo**](https://github.com/promptfoo/promptfoo) | <!--stars:promptfoo/promptfoo format=k-->27.6k<!--/stars--> | Prompt / agent eval |
 | [**slopus/happy**](https://github.com/slopus/happy) | <!--stars:slopus/happy format=k-->24.8k<!--/stars--> | Mobile + web for Codex / Claude |
 | [**BeehiveInnovations/pal-mcp-server**](https://github.com/BeehiveInnovations/pal-mcp-server) | <!--stars:BeehiveInnovations/pal-mcp-server format=k-->11.8k<!--/stars--> | Multi-provider AI MCP |
 | [**nearai/ironclaw**](https://github.com/nearai/ironclaw) | <!--stars:nearai/ironclaw format=k-->12.7k<!--/stars--> | Privacy-focused OpenClaw in Rust |
